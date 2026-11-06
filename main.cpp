@@ -14,7 +14,7 @@ int main()
 
 void say(string s)
 {
-    cout << s << endl;
+    cout  << s << endl;
 }
 int add(int a, int b)
 {
